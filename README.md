@@ -7,7 +7,7 @@ This project utilizes the power of CrewAI, a multi-agent system, to research and
 ## Objective
 
 The primary goal of this project is to leverage the capabilities of CrewAI to conduct in-depth research on sleep cycles and disseminate the findings through engaging, informative, and humorous blog posts.
-
+ 
 ## Agents
 
 1. **Researcher Agent:** This agent is responsible for conducting comprehensive research on sleep cycles. It scours various sources to gather and analyze data, ensuring the information is accurate, relevant, and up-to-date.
